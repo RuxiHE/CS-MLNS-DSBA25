@@ -1,2 +1,6 @@
 /centrale-supelec-mlns-dsba-2025/*
-.DS_Store
+/.DS_Store
+/.ipynb_checkpoints
+/.vscode
+/.git
+/.gitignore
